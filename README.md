@@ -13,12 +13,13 @@
 -----    -----    --------------    ---------------   ---------------   --------------
 </pre>
 
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/49374405/187651176-db2e331d-910e-4035-bede-f1782e3e05d0.gif)
+
 
 - 👋 Hi! I'm Hector Rodriguez.
 - 🔍 Actually I'm discovering the universe of *Frontend Programming*.
 - 📖 Learning **JS**, **VueJS** and **AngularJS**.
 - 🖥️ I use daily **.php**, **.sass** and **.js**.
 - 💬 Talk to me about gym, backend (both of these are not any kind of insect or animals 🤣), silicon valley & startups
-- 👥 We can connect to play some games of Chess ♟
+- 👥 We can connect to play some games of Chess ♟ or LOL
 
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/49374405/187651176-db2e331d-910e-4035-bede-f1782e3e05d0.gif)
